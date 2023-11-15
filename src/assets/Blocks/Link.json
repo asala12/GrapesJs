@@ -1,0 +1,11 @@
+{
+  "id": "Link",
+  "label": "Link",
+  "category": "T4",
+  "activate": true,
+  "content": {
+    "type": "link",
+    "content": "Insert your link here",
+    "style": { "color": "#d983a6" }
+  }
+}

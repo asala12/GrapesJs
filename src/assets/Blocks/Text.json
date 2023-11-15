@@ -1,0 +1,9 @@
+{
+  "label": "Text",
+  "category": "T2",
+  "content": {
+    "type": "text",
+    "content": "<div data-gjs-type='text'>Insert your text here</div>",
+    "style": {}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "label": "Image",
+  "category": "T3",
+  "select": true,
+  "content": { "type": "image" },
+  "activate": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "Section",
+  "label": "<b>Section</b>",
+  "category": "T1",
+  "attributes": { "class": "gjs-block-section" },
+  "content": {
+    "content": "<section><h1>This is a simple title</h1><div>This is just a Lorem text: Lorem ipsum dolor sit amet</div></section>",
+    "style": {}
+  }
+}
